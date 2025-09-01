@@ -2,98 +2,98 @@
   "items": [
     {
       "id": 1,
-      "title": "Bol Do Na Zara",
-      "singer": "Armaan Malik",
+      "title": "Arabic kuthu",
+      "singer": "Anirudh ravichandar",
       "genre": "Romantic",
       "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
-      "songUrl": "Songs/Bol Do Na Zara.mp3"
+      "songUrl": "Songs/arabic kuthu.mp3"
     },
     {
       "id": 2,
-      "title": "Chaleya",
-      "singer": "Arijit Singh",
+      "title": "sottu sotta",
+      "singer": "teejay",
       "genre": "Romantic",
       "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
-      "songUrl": "Songs/chaleya.mp3"
+      "songUrl": "Songs/sottu sotta.mp3"
     },
     {
       "id": 3,
-      "title": "Humnava Mere",
-      "singer": "Jubin Nautiyal",
+      "title": "kathaley",
+      "singer": "agaram",
       "genre": "Romantic",
       "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
-      "songUrl": "Songs/Humnava Mere.mp3"
+      "songUrl": "Songs/kathaley.mp3"
     },
     {
       "id": 4,
-      "title": "Saari Duniya Jalaa Denge",
-      "singer": "B Praak",
+      "title": "hip andre",
+      "singer": "agaram",
       "genre": "Emotional",
       "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+      "songUrl": "Songs/hip andre.mp3"
     },
     {
       "id": 5,
-      "title": "Sanam Teri Kasam",
-      "singer": "Ankit Tiwari",
+      "title": "asaigal",
+      "singer": "agaram",
       "genre": "Emotional",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c79ed9daa0ef22e185c71cd",
-      "songUrl": "Songs/Sanam Teri Kasam.mp3"
+      "songUrl": "Songs/asaigal.mp3"
     },
     {
       "id": 6,
-      "title": "Tum Hi Ho",
-      "singer": "Arijit Singh",
+      "title": "enna venum",
+      "singer": "agaram",
       "genre": "Emotional",
       "imgUrl": "https://lyrichindi.com/wp-content/uploads/2023/09/desktop-wallpaper-meri-aashiqui-tum-hi-ho-tum-hi-ho.jpg",
-      "songUrl": "Songs/Tum Hi Ho.mp3"
+      "songUrl": "Songs/enna venum.mp3"
     },
     {
       "id": 7,
-      "title": "zihal-e-misk",
-      "singer": "Shreya Ghoshal",
+      "title": "why this kolaveri",
+      "singer": "Anirudh ravichandar",
       "genre": "Emotional",
       "imgUrl": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1685023719.jpg",
-      "songUrl": "Songs/Zihaal e Miskin.mp3"
+      "songUrl": "Songs/why this kolaveri.mp3"
     }
   ],
   "favorities": [
     {
       "itemId": 4,
-      "title": "Saari Duniya Jalaa Denge",
+      "title": "hip andre",
       "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
       "genre": "Emotional",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
-      "singer": "B Praak",
+      "songUrl": "Songs/hip andre.mp3",
+      "singer": "agaram",
       "id": 6
     }
   ],
   "playlist": [
     {
       "itemId": 6,
-      "title": "Tum Hi Ho",
+      "title": "enna venum",
       "imgUrl": "https://lyrichindi.com/wp-content/uploads/2023/09/desktop-wallpaper-meri-aashiqui-tum-hi-ho-tum-hi-ho.jpg",
       "genre": "Emotional",
-      "songUrl": "Songs/Tum Hi Ho.mp3",
-      "singer": "Arijit Singh",
+      "songUrl": "Songs/enna venum.mp3",
+      "singer": "agaram",
       "id": 4
     },
     {
       "itemId": 4,
-      "title": "Saari Duniya Jalaa Denge",
+      "title": "hip andre",
       "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
       "genre": "Emotional",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
-      "singer": "B Praak",
+      "songUrl": "Songs/hip andre.mp3",
+      "singer": "agaram",
       "id": 6
     },
     {
       "itemId": 2,
-      "title": "Chaleya",
+      "title": "sottu sotta",
       "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
       "genre": "Romantic",
-      "songUrl": "Songs/chaleya.mp3",
-      "singer": "Arijit Singh",
+      "songUrl": "Songs/sottu sotta.mp3",
+      "singer": "teejay",
       "id": 7
     }
   ]
